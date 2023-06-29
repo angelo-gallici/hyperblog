@@ -1,3 +1,5 @@
 Este es un documento de texto en VSC por angelo gallici.
 
-Tengo 24 años
+Tengo 24 años.
+
+Mide 1.80m
